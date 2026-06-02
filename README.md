@@ -2,10 +2,6 @@
 
 Are you a grifter?
 
-**grifter radar** — paste a LinkedIn profile URL and get a 0–100 score for how
-many "grifter" red-flag signals the profile shows, with a transparent,
-per-signal breakdown.
-
 
 ---
 
