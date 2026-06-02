@@ -1,14 +1,11 @@
-# griftdar 🛰️
+# griftdar 
+
+Are you a grifter?
 
 **grifter radar** — paste a LinkedIn profile URL and get a 0–100 score for how
 many "grifter" red-flag signals the profile shows, with a transparent,
 per-signal breakdown.
 
-> ⚠️ **Disclaimer:** The score is an automated heuristic for **informational
-> purposes only**. It is **not** a factual claim or determination about any
-> individual. griftdar does **not** build a public, searchable database of
-> people — every analysis is on-demand and nothing about an analyzed person is
-> persisted.
 
 ---
 
